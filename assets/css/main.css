@@ -245,12 +245,23 @@ input {
         width: 1.6rem;
     }
 
+    .metrics {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
 
     html {
         font-size: 10px;
+    }
+
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 1.2rem 0;
     }
 
 }
