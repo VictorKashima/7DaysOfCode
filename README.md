@@ -1,2 +1,1 @@
-# 7DaysOfCode
-Página de contratação para empresa "Optimus Tech" (fictícia).
+<a href="https://victorkashima.github.io/7DaysOfCode/">Acessar site</a>
